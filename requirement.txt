@@ -1,3 +1,0 @@
-# Python 3.10+ is recommended.
-# No third-party packages are required for running this project.
-# tkinter, json, statistics, dataclasses, datetime, pathlib, and typing are from the Python standard library.
