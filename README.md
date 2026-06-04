@@ -2,7 +2,7 @@
 
 - `app.py`：本地行为口令演示程序
 - `behavioral_password_core.py`：行为特征提取、模板建模和验证逻辑
-- `作品设计报告-final.docx`：实验报告
+- `作品设计报告-final.pdf`：实验报告
 
 本地运行方式：
 
